@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "985103326693",
+    "project_id": "mantenimparcial",
+    "storage_bucket": "mantenimparcial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985103326693:android:1fcdb6e48bc8329a00230c",
+        "android_client_info": {
+          "package_name": "com.example.manteparcialtres"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985103326693-q4hfjq1hqgekg2t3j04cdffmsp87es72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIq6wi3Bp6fa8ffLw21mupYzpCo9kwkfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985103326693-q4hfjq1hqgekg2t3j04cdffmsp87es72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
